@@ -1,0 +1,807 @@
+{
+  "users": [
+    {
+      "name": "user1",
+      "username": "user1",
+      "email": "user1@mail.com",
+      "password": 12345
+    },
+    {
+      "name": "user2",
+      "username": "user2",
+      "email": "user2@mail.com",
+      "password": 12345
+    },
+    {
+      "name": "user3",
+      "username": "user3",
+      "email": "user3@mail.com",
+      "password": 12345
+    },
+    {
+      "name": "user3",
+      "username": "user3",
+      "email": "user3@mail.com",
+      "password": 12345
+    },
+    {
+      "name": "user4",
+      "username": "user4",
+      "email": "user4@mail.com",
+      "password": 12345
+    }
+  ],
+  "wishlist": [],
+  "products": [
+    {
+      "name": "NIKE AIR FORCE 1 '07 MEN'S BASKETBALL SHOES - WHITE",
+      "slug": "nike-air-force-1-07-men-s-basketball-shoes-white-46",
+      "description": "Sepatu Basket Nike Air Force 1 '07 Berwarna Putih Khusus Pria",
+      "excerpt": "Selisih 1-2 cm mungkin terjadi dikarenakan proses pengembangan dan produksi.",
+      "price": 2099000,
+      "tags": ["nike", "sneakers"],
+      "brand": "Nike",
+      "thumbnail": "https://www.footlocker.id/media/catalog/product/cache/e81e4f913a1cad058ef66fea8e95c839/0/1/01-NIKE-FFSSBNIK5-NIKFJ4209100-White.jpg",
+      "images": [
+        "https://www.footlocker.id/media/catalog/product/cache/1361a5fa2136490ab0bb297f837f6217/0/2/02-NIKE-FFSSBNIK5-NIKFJ4209100-White.jpg",
+        "https://www.footlocker.id/media/catalog/product/cache/1361a5fa2136490ab0bb297f837f6217/0/3/03-NIKE-FFSSBNIK5-NIKFJ4209100-White.jpg",
+        "https://www.footlocker.id/media/catalog/product/cache/1361a5fa2136490ab0bb297f837f6217/0/4/04-NIKE-FFSSBNIK5-NIKFJ4209100-White.jpg",
+        "https://www.footlocker.id/media/catalog/product/cache/1361a5fa2136490ab0bb297f837f6217/0/5/05-NIKE-FFSSBNIK5-NIKFJ4209100-White.jpg",
+        "https://www.footlocker.id/media/catalog/product/cache/1361a5fa2136490ab0bb297f837f6217/0/6/06-NIKE-FFSSBNIK5-NIKFJ4209100-White.jpg"
+      ],
+      "createdAt": "2023-12-15T15:32:06.350Z",
+      "updatedAt": "2024-03-18T14:47:12.101Z"
+    },
+    {
+      "name": "NEW BALANCE 327 MEN'S SNEAKERS SHOES - KHAKI",
+      "slug": "new-balance-327-men-s-sneakers-shoes-khaki-13",
+      "description": "Karena lari rekreasional semakin populer di tahun 1970-an, tolok ukur untuk alas kaki lari bergeser dari sekadar keberadaan menjadi sebuah performa.Sementara era desain akan dianggap sederhana menurut standar saat ini, dekade ini menonjol sebagai momen ketika sepatu lari benar-benar menjadi miliknya. 327 menyoroti tahun 70-an sebagai masa inovasi dengan berani membentuk kembali elemen desain klasik dengan pandangan yang sepenuhnya kontemporer. Dengan pengerjaan ulang sudut dari siluet wedge yang sudah teruji, berukuran besar, branding 'N' yang diterapkan secara asimetris, dan lug outsole yang terinspirasi dari jejak, 327 memberikan konsep ulang yang lengkap dari warisan lari kami.",
+      "excerpt": "Selisih 1-2 cm mungkin terjadi dikarenakan proses pengembangan dan produksi.",
+      "price": 1500000,
+      "tags": ["newbalance", "sneakers"],
+      "brand": "New Balance",
+      "thumbnail": "https://www.footlocker.id/media/catalog/product/cache/e81e4f913a1cad058ef66fea8e95c839/0/1/01-NEW-BALANCE-FFSSBNEWA-NEWMS327MT-Brown.jpg",
+      "images": [
+        "https://www.footlocker.id/media/catalog/product/cache/1361a5fa2136490ab0bb297f837f6217/0/2/02-NEW-BALANCE-FFSSBNEWA-NEWMS327MT-Brown.jpg",
+        "https://www.footlocker.id/media/catalog/product/cache/1361a5fa2136490ab0bb297f837f6217/0/3/03-NEW-BALANCE-FFSSBNEWA-NEWMS327MT-Brown.jpg",
+        "https://www.footlocker.id/media/catalog/product/cache/1361a5fa2136490ab0bb297f837f6217/0/4/04-NEW-BALANCE-FFSSBNEWA-NEWMS327MT-Brown.jpg",
+        "https://www.footlocker.id/media/catalog/product/cache/1361a5fa2136490ab0bb297f837f6217/0/5/05-NEW-BALANCE-FFSSBNEWA-NEWMS327MT-Brown.jpg",
+        "https://www.footlocker.id/media/catalog/product/cache/1361a5fa2136490ab0bb297f837f6217/0/6/06-NEW-BALANCE-FFSSBNEWA-NEWMS327MT-Brown.jpg"
+      ],
+      "createdAt": "2024-01-22T13:15:24.887Z",
+      "updatedAt": "2024-01-25T18:19:54.047Z"
+    },
+    {
+      "name": "ADIDAS STAN SMITH MEN'S SNEAKERS - CORE BLACK",
+      "slug": "adidas-stan-smith-men-s-sneakers-core-black-20.",
+      "description": "Masuki gaya Original Adidas klasik dengan sepatu Stan Smith pria ini. Sebuah desain legendaris dengan silhouette low-cut yang terbuat dari bahan kulit di bagian atas dan 3-Stripes yang berrongga. Sentuhan cupsole karet yang ada memberikan ketahanan dan traksi di berbagai permukaan. Ukuran reguler pada sepatu memberikan keseimbangan yang sempurna antara longgar dan mendekap. Tampil dengan gaya kasual yang berkelas bersama sepatu ikonis ini.",
+      "excerpt": "Signature shoes that bring in a hint of soccer influence.",
+      "price": 2000000,
+      "tags": ["adidas", "sneakers"],
+      "brand": "Adidas",
+      "thumbnail": "https://www.footlocker.id/media/catalog/product/cache/e81e4f913a1cad058ef66fea8e95c839/0/1/01-ADIDAS-FFSSBADI5-ADIIG1319-Black.jpg",
+      "images": [
+        "https://www.footlocker.id/media/catalog/product/cache/1361a5fa2136490ab0bb297f837f6217/0/2/02-ADIDAS-FFSSBADI5-ADIIG1319-Black.jpg",
+        "https://www.footlocker.id/media/catalog/product/cache/1361a5fa2136490ab0bb297f837f6217/0/3/03-ADIDAS-FFSSBADI5-ADIIG1319-Black.jpg",
+        "https://www.footlocker.id/media/catalog/product/cache/1361a5fa2136490ab0bb297f837f6217/0/4/04-ADIDAS-FFSSBADI5-ADIIG1319-Black.jpg",
+        "https://www.footlocker.id/media/catalog/product/cache/1361a5fa2136490ab0bb297f837f6217/0/5/05-ADIDAS-FFSSBADI5-ADIIG1319-Black.jpg",
+        "https://www.footlocker.id/media/catalog/product/cache/1361a5fa2136490ab0bb297f837f6217/0/6/06-ADIDAS-FFSSBADI5-ADIIG1319-Black.jpg"
+      ],
+      "createdAt": "2024-08-09T03:01:50.432Z",
+      "updatedAt": "2023-05-17T16:42:21.208Z"
+    },
+    {
+      "name": "ASICS JAPAN S ST UNISEX SNEAKER SHOES - WHITE",
+      "slug": "asics-japan-s-st-unisex-sneaker-shoes-white-10",
+      "description": "Berasal dari persembahan masa lalu kami dari 1981, siluet ini mengembangkan desain ikonik dengan properti bantalan yang lebih baik. Upper sepatu ini memiliki konstruksi kulit sintetis dan beberapa detail aksen yang membantu memberikan kombinasi blok warna unik. Tooling platform sole ini diperbaharui dengan teknologi GELâ„¢ di bagian bawah. Sepatu ini didesain untuk membantu memberikan kenyamanan bawah kaki yang lebih baik untuk kehidupan modern saat ini.",
+      "excerpt": "Selisih 1-2 cm mungkin terjadi dikarenakan proses pengembangan dan produksi.",
+      "price": 1199000,
+      "brand": "Asics",
+      "tags": ["copia", "sursum", "omnis"],
+      "thumbnail": "https://www.footlocker.id/media/catalog/product/cache/e81e4f913a1cad058ef66fea8e95c839/0/1/01-ASICS-FFSSEASIA-ASI123A28913-White.jpg",
+      "images": [
+        "https://www.footlocker.id/media/catalog/product/cache/1361a5fa2136490ab0bb297f837f6217/0/2/02-ASICS-FFSSEASIA-ASI123A28913-White.jpg",
+        "https://www.footlocker.id/media/catalog/product/cache/1361a5fa2136490ab0bb297f837f6217/0/3/03-ASICS-FFSSEASIA-ASI123A28913-White.jpg",
+        "https://www.footlocker.id/media/catalog/product/cache/1361a5fa2136490ab0bb297f837f6217/0/4/04-ASICS-FFSSEASIA-ASI123A28913-White.jpg",
+        "https://www.footlocker.id/media/catalog/product/cache/1361a5fa2136490ab0bb297f837f6217/0/5/05-ASICS-FFSSEASIA-ASI123A28913-White.jpg",
+        "https://www.footlocker.id/media/catalog/product/cache/1361a5fa2136490ab0bb297f837f6217/0/6/06-ASICS-FFSSEASIA-ASI123A28913-White.jpg"
+      ],
+      "createdAt": "2024-03-06T12:32:37.477Z",
+      "updatedAt": "2024-06-10T19:39:46.154Z"
+    },
+    {
+      "name": "CROCS HIKER 2.0 UNISEX CLOG - BLACK",
+      "slug": "crocs-hiker-2-0-unisex-clog-black-10",
+      "description": "Terinspirasi oleh alam bebas tetapi dibuat untuk tampil lebih menonjol, Hiker Xscape menghadirkan sentuhan muda dan energik ke dalam produk Hiker. Pembaruan dengan gaya yang cocok untuk selfie ini menambahkan estetika petualangan yang akan menarik perhatian pada acara festival hingga brunch akhir pekan. Dengan outsole berbentuk gigi gergaji yang lebih berlebihan, tapak karet, dan pilihan warna cerah yang menarik, sandal Hiker baru ini adalah sandal yang modis dan kokoh.",
+      "excerpt": "50mm midsole height Â  Fully molded Croslite upper and heel pillow Â  Webbed backstrap with hook & loop adjustability Â  Rubber heel and forefoot units with additional traction Â  Evolved sawtooth outsole Â  Easy to clean Â  Vent",
+      "price": 1799000,
+      "tags": ["crocs", "sandals"],
+      "brand": "Crocs",
+      "thumbnail": "https://www.footlocker.id/media/catalog/product/cache/e81e4f913a1cad058ef66fea8e95c839/0/1/01-CROCS-FFSSDCCRA-CCR208365001-Black.jpg",
+      "images": [
+        "https://www.footlocker.id/media/catalog/product/cache/1361a5fa2136490ab0bb297f837f6217/0/2/02-CROCS-FFSSDCCRA-CCR208365001-Black.jpg",
+        "https://www.footlocker.id/media/catalog/product/cache/1361a5fa2136490ab0bb297f837f6217/0/3/03-CROCS-FFSSDCCRA-CCR208365001-Black.jpg",
+        "https://www.footlocker.id/media/catalog/product/cache/1361a5fa2136490ab0bb297f837f6217/0/4/04-CROCS-FFSSDCCRA-CCR208365001-Black.jpg",
+        "https://www.footlocker.id/media/catalog/product/cache/1361a5fa2136490ab0bb297f837f6217/0/5/05-CROCS-FFSSDCCRA-CCR208365001-Black.jpg",
+        "https://www.footlocker.id/media/catalog/product/cache/1361a5fa2136490ab0bb297f837f6217/0/6/06-CROCS-FFSSDCCRA-CCR208365001-Black.jpg"
+      ],
+      "createdAt": "2024-11-15T09:54:08.287Z",
+      "updatedAt": "2024-02-10T18:53:21.288Z"
+    },
+    {
+      "name": "NIKE CORTEZ MEN'S SNEAKERS SHOES - WHITE",
+      "slug": "nike-cortez-men-s-sneakers-shoes-white-12",
+      "description": "Tadinya 1972. Sekarang 2023. Terkadang lebih banyak berarti lebih baik. Mengerjakan ulang tampilan yang dihormati, kami memperbaharui desainnya dengan area jari yang lebih lebar dan panel sisi yang lebih kokoh, sehingga Anda dapat dengan nyaman menggunakannya di awal hari, dan di ujung hari. Bahan yang dikerjakan ulang membantu mencegah lengkungan dan menambahkan ketahanan sambil tetap mempertahankan bentuk '72 klasik yang Anda cintai. Kenakan, karena tradisi terus menjadi lebih baik.",
+      "excerpt": "Selisih 1-2 cm mungkin terjadi dikarenakan proses pengembangan dan produksi.",
+      "price": 1299000,
+      "tags": ["nike", "sneakers"],
+      "brand": "Nike",
+      "thumbnail": "https://www.footlocker.id/media/catalog/product/cache/e81e4f913a1cad058ef66fea8e95c839/0/1/01-NIKE-FFSSBNIK5-NIKDM4044102-White.jpg",
+      "images": [
+        "https://www.footlocker.id/media/catalog/product/cache/1361a5fa2136490ab0bb297f837f6217/0/2/02-NIKE-FFSSBNIK5-NIKDM4044102-White.jpg",
+        "https://www.footlocker.id/media/catalog/product/cache/1361a5fa2136490ab0bb297f837f6217/0/3/03-NIKE-FFSSBNIK5-NIKDM4044102-White.jpg",
+        "https://www.footlocker.id/media/catalog/product/cache/1361a5fa2136490ab0bb297f837f6217/0/4/04-NIKE-FFSSBNIK5-NIKDM4044102-White.jpg",
+        "https://www.footlocker.id/media/catalog/product/cache/1361a5fa2136490ab0bb297f837f6217/0/5/05-NIKE-FFSSBNIK5-NIKDM4044102-White.jpg",
+        "https://www.footlocker.id/media/catalog/product/cache/1361a5fa2136490ab0bb297f837f6217/0/6/06-NIKE-FFSSBNIK5-NIKDM4044102-White.jpg"
+      ],
+      "createdAt": "2023-01-27T18:25:27.802Z",
+      "updatedAt": "2022-12-27T20:46:38.431Z"
+    },
+    {
+      "name": "NIKE DUNK HIGH RETRO MEN'S BASKETBALL SHOES - BLACK",
+      "slug": "nike-dunk-high-retro-men-s-basketball-shoes-black-11",
+      "description": "Sepatu Basket Nike Dunk High Retro Berwarna Hitam Khusus Pria",
+      "price": 2099000,
+      "tags": ["nike", "sneakers"],
+      "brand": "Nike",
+      "thumbnail": "https://www.footlocker.id/media/catalog/product/cache/e81e4f913a1cad058ef66fea8e95c839/0/1/01-NIKE-FFSSBNIK5-NIKFJ4210001-Black.jpg",
+      "images": [
+        "https://www.footlocker.id/media/catalog/product/cache/1361a5fa2136490ab0bb297f837f6217/0/2/02-NIKE-FFSSBNIK5-NIKFJ4210001-Black.jpg",
+        "https://www.footlocker.id/media/catalog/product/cache/1361a5fa2136490ab0bb297f837f6217/0/3/03-NIKE-FFSSBNIK5-NIKFJ4210001-Black.jpg",
+        "https://www.footlocker.id/media/catalog/product/cache/1361a5fa2136490ab0bb297f837f6217/0/4/04-NIKE-FFSSBNIK5-NIKFJ4210001-Black.jpg",
+        "https://www.footlocker.id/media/catalog/product/cache/1361a5fa2136490ab0bb297f837f6217/0/5/05-NIKE-FFSSBNIK5-NIKFJ4210001-Black.jpg",
+        "https://www.footlocker.id/media/catalog/product/cache/1361a5fa2136490ab0bb297f837f6217/0/6/06-NIKE-FFSSBNIK5-NIKFJ4210001-Black.jpg"
+      ],
+      "createdAt": "2023-01-27T13:37:17.354Z",
+      "updatedAt": "2023-09-09T13:43:34.455Z"
+    },
+    {
+      "name": "NIKE AIR MAX 1 MEN'S SNEAKERS SHOES - SAIL",
+      "slug": "nike-air-max-1-men-s-sneakers-shoes-sail-14",
+      "description": "NIKE AIR MAX 1",
+      "price": 2199000,
+      "tags": ["nike", "sneakers"],
+      "brand": "Nike",
+      "thumbnail": "https://www.footlocker.id/media/catalog/product/cache/e81e4f913a1cad058ef66fea8e95c839/0/1/01-NIKE-FFSSBNIK5-NIKFQ8048133-Brown.jpg",
+      "images": [
+        "https://www.footlocker.id/media/catalog/product/cache/1361a5fa2136490ab0bb297f837f6217/0/2/02-NIKE-FFSSBNIK5-NIKFQ8048133-Brown.jpg",
+        "https://www.footlocker.id/media/catalog/product/cache/1361a5fa2136490ab0bb297f837f6217/0/3/03-NIKE-FFSSBNIK5-NIKFQ8048133-Brown.jpg",
+        "https://www.footlocker.id/media/catalog/product/cache/1361a5fa2136490ab0bb297f837f6217/0/4/04-NIKE-FFSSBNIK5-NIKFQ8048133-Brown.jpg",
+        "https://www.footlocker.id/media/catalog/product/cache/1361a5fa2136490ab0bb297f837f6217/0/5/05-NIKE-FFSSBNIK5-NIKFQ8048133-Brown.jpg",
+        "https://www.footlocker.id/media/catalog/product/cache/1361a5fa2136490ab0bb297f837f6217/0/6/06-NIKE-FFSSBNIK5-NIKFQ8048133-Brown.jpg"
+      ],
+      "createdAt": "2023-12-06T07:47:47.833Z",
+      "updatedAt": "2023-03-19T16:53:03.404Z"
+    },
+    {
+      "name": "NIKE JORDAN MVP MEN'S BASKETBALL SHOES - BLACK",
+      "slug": "nike-jordan-mvp-men-s-basketball-shoes-black-34",
+      "description": "We didn't invent the remix—but considering the material we get to sample, this one's a no-brainer. We took elements from the AJ6, 7 and 8, making them into a completely new shoe that celebrates MJ's first 3-peat championship run.",
+      "excerpt": "Jumpman MVP",
+      "price": 2629000,
+      "tags": ["nike", "sneakers"],
+      "brand": "Nike",
+      "thumbnail": "https://www.footlocker.id/media/catalog/product/cache/e81e4f913a1cad058ef66fea8e95c839/0/1/01-NIKE-F34KBNIK5-NIKDZ4475061-Black.jpg",
+      "images": [
+        "https://www.footlocker.id/media/catalog/product/cache/1361a5fa2136490ab0bb297f837f6217/0/2/02-NIKE-F34KBNIK5-NIKDZ4475061-Black.jpg",
+        "https://www.footlocker.id/media/catalog/product/cache/1361a5fa2136490ab0bb297f837f6217/0/3/03-NIKE-F34KBNIK5-NIKDZ4475061-Black.jpg",
+        "https://www.footlocker.id/media/catalog/product/cache/1361a5fa2136490ab0bb297f837f6217/0/4/04-NIKE-F34KBNIK5-NIKDZ4475061-Black.jpg",
+        "https://www.footlocker.id/media/catalog/product/cache/1361a5fa2136490ab0bb297f837f6217/0/5/05-NIKE-F34KBNIK5-NIKDZ4475061-Black.jpg",
+        "https://www.footlocker.id/media/catalog/product/cache/1361a5fa2136490ab0bb297f837f6217/0/6/06-NIKE-F34KBNIK5-NIKDZ4475061-Black.jpg"
+      ],
+      "createdAt": "2023-06-04T03:57:07.764Z",
+      "updatedAt": "2022-12-19T19:32:58.233Z"
+    },
+    {
+      "name": "NEW BALANCE 2002R MEN'S SNEAKERS - MARBLEHEAD",
+      "slug": "new-balance-2002r-men-s-sneakers-marblehead-8",
+      "description": "Bagian atas terinspirasi oleh sepatu lari dari tahun 2000-an dan dibuat dari bahan premium untuk estetika retro-memenuhi-modern yang memperkuat status Anda sebagai pemberi pengaruh gaya. Midsole ABZORB dan bantalan tumit memberikan kenyamanan tanpa batas sementara Stability Web dan outsole N-ergy menawarkan dukungan lengkungan dan peredam kejut, sehingga Anda dapat beraktivitas sepanjang hari.",
+      "excerpt": "Slick kicks can still be comfortable, like our 2002R men's fashion sneakers.",
+      "price": 2499000,
+      "tags": ["newbalance", "sneakers"],
+      "brand": "New Balance",
+      "thumbnail": "https://www.footlocker.id/media/catalog/product/cache/e81e4f913a1cad058ef66fea8e95c839/0/1/01-NEW-BALANCE-FFSSBNEW0-NEWML2002RC-Grey.jpg",
+      "images": [
+        "https://www.footlocker.id/media/catalog/product/cache/1361a5fa2136490ab0bb297f837f6217/0/2/02-NEW-BALANCE-FFSSBNEW0-NEWML2002RC-Grey.jpg",
+        "https://www.footlocker.id/media/catalog/product/cache/1361a5fa2136490ab0bb297f837f6217/0/3/03-NEW-BALANCE-FFSSBNEW0-NEWML2002RC-Grey.jpg",
+        "https://www.footlocker.id/media/catalog/product/cache/1361a5fa2136490ab0bb297f837f6217/0/4/04-NEW-BALANCE-FFSSBNEW0-NEWML2002RC-Grey.jpg",
+        "https://www.footlocker.id/media/catalog/product/cache/1361a5fa2136490ab0bb297f837f6217/0/5/05-NEW-BALANCE-FFSSBNEW0-NEWML2002RC-Grey.jpg"
+      ],
+      "createdAt": "2023-12-10T04:40:42.778Z",
+      "updatedAt": "2023-02-25T03:33:31.866Z"
+    },
+    {
+      "name": "NEW BALANCE 550 MEN'S SNEAKERS- BLACK",
+      "slug": "new-balance-550-men-s-sneakers-black-10",
+      "description": "Re-introducing a basketball legend. The return of the 550 pays tribute to the 1989 original that defined a hoops generation. Originally worn by pro ballers in the '80s and '90s, the new 550 is simple, clean and true to its legacy.",
+      "price": 2099000,
+      "tags": ["newbalance", "sneakers"],
+      "brand": "New Balance",
+      "thumbnail": "https://www.footlocker.id/media/catalog/product/cache/e81e4f913a1cad058ef66fea8e95c839/0/1/01-NEW-BALANCE-FFSSBNEWA-NEWBB550BBB-Black.jpg",
+      "images": [
+        "https://www.footlocker.id/media/catalog/product/cache/1361a5fa2136490ab0bb297f837f6217/0/2/02-NEW-BALANCE-FFSSBNEWA-NEWBB550BBB-Black.jpg",
+        "https://www.footlocker.id/media/catalog/product/cache/1361a5fa2136490ab0bb297f837f6217/0/3/03-NEW-BALANCE-FFSSBNEWA-NEWBB550BBB-Black.jpg",
+        "https://www.footlocker.id/media/catalog/product/cache/1361a5fa2136490ab0bb297f837f6217/0/4/04-NEW-BALANCE-FFSSBNEWA-NEWBB550BBB-Black.jpg",
+        "https://www.footlocker.id/media/catalog/product/cache/1361a5fa2136490ab0bb297f837f6217/0/5/05-NEW-BALANCE-FFSSBNEWA-NEWBB550BBB-Black.jpg",
+        "https://www.footlocker.id/media/catalog/product/cache/1361a5fa2136490ab0bb297f837f6217/0/6/06-NEW-BALANCE-FFSSBNEWA-NEWBB550BBB-Black.jpg"
+      ],
+      "createdAt": "2024-09-17T22:16:36.054Z",
+      "updatedAt": "2024-04-26T16:40:49.008Z"
+    },
+    {
+      "name": "NEW BALANCE 9060 UNISEX SNEAKERS SHOES - WHITE",
+      "slug": "new-balance-9060-unisex-sneakers-shoes-white-30",
+      "description": "Seri 9060 adalah ekspresi baru dari gaya yang lebih baik dan desain yang dibuat berdasarkan inovasi sehingga membuat seri 99X basis dari sejumlah model paling ikonis dalam sejarah New Balance. Seri 9060 menggambarkan elemen-elemen yang sudah dikenal dari model 99X klasik dengan sensibilitas yang terinspirasi dari estetika futuristik dan teknologi dari era Y2K. Sway bar, dari koleksi 990, diperluas dan digunakan di sepanjang upper untuk sensasi gerak yang lebih terasa, sementara itu, garis lekuk dan proporsi yang lebih baik pada sol tengah menekankan alas bantalan yang nyaman dari ABZORB dan SBS.",
+      "excerpt": "The 9060 is a new expression of the refined style and innovation-led design that have made the 99X series home to some of the most iconic models in New Balance history.",
+      "price": 2599000,
+      "tags": ["newbalance", "sneakers"],
+      "brand": "New Balance",
+      "thumbnail": "https://www.footlocker.id/media/catalog/product/cache/e81e4f913a1cad058ef66fea8e95c839/0/1/01-NEW-BALANCE-FFSSBNEWA-NEWU9060VNB-White.jpg",
+      "images": [
+        "https://www.footlocker.id/media/catalog/product/cache/1361a5fa2136490ab0bb297f837f6217/0/2/02-NEW-BALANCE-FFSSBNEWA-NEWU9060VNB-White.jpg",
+        "https://www.footlocker.id/media/catalog/product/cache/1361a5fa2136490ab0bb297f837f6217/0/3/03-NEW-BALANCE-FFSSBNEWA-NEWU9060VNB-White.jpg",
+        "https://www.footlocker.id/media/catalog/product/cache/1361a5fa2136490ab0bb297f837f6217/0/4/04-NEW-BALANCE-FFSSBNEWA-NEWU9060VNB-White.jpg",
+        "https://www.footlocker.id/media/catalog/product/cache/1361a5fa2136490ab0bb297f837f6217/0/5/05-NEW-BALANCE-FFSSBNEWA-NEWU9060VNB-White.jpg",
+        "https://www.footlocker.id/media/catalog/product/cache/1361a5fa2136490ab0bb297f837f6217/0/6/06-NEW-BALANCE-FFSSBNEWA-NEWU9060VNB-White.jpg"
+      ],
+      "createdAt": "2024-08-12T19:06:51.002Z",
+      "updatedAt": "2023-05-03T06:27:32.935Z"
+    },
+    {
+      "name": "NEW BALANCE 9060 UNISEX SNEAKERS SHOES - GREY",
+      "slug": "new-balance-9060-unisex-sneakers-shoes-grey-35",
+      "description": "9060 adalah ekspresi baru dari gaya yang halus dan desain yang dipimpin oleh inovasi yang telah membuat seri 99X menjadi rumah bagi beberapa model paling ikonik dalam sejarah New Balance. 9060 menafsirkan kembali elemen-elemen yang sudah dikenal yang bersumber dari model klasik 99X dengan sensibilitas melengkung yang terinspirasi oleh estetika teknologi yang futuristik dan membanggakan di era Y2K. Sway bar, yang diambil dari 990, diperluas dan digunakan di seluruh bagian atas untuk memberikan kesan gerakan yang terlihat, sementara garis bergelombang dan proporsi yang diperbesar pada midsole yang dipahat memberikan penekanan yang berlebihan pada platform bantalan yang sudah dikenal dari ABZORB dan SBS.",
+      "excerpt": "The 9060 is a new expression of the refined style and innovation-led design that have made the 99X series home to some of the most iconic models in New Balance history. ",
+      "price": 1911837,
+      "tags": ["newbalance", "sneakers"],
+      "brand": "New Balance",
+      "thumbnail": "https://www.footlocker.id/media/catalog/product/cache/e81e4f913a1cad058ef66fea8e95c839/0/1/01-NEW-BALANCE-FFSTYNEWA-NEWU9060HSA-Grey.jpg",
+      "images": [
+        "https://www.footlocker.id/media/catalog/product/cache/1361a5fa2136490ab0bb297f837f6217/0/2/02-NEW-BALANCE-FFSTYNEWA-NEWU9060HSA-Grey.jpg",
+        "https://www.footlocker.id/media/catalog/product/cache/1361a5fa2136490ab0bb297f837f6217/0/3/03-NEW-BALANCE-FFSTYNEWA-NEWU9060HSA-Grey.jpg",
+        "https://www.footlocker.id/media/catalog/product/cache/1361a5fa2136490ab0bb297f837f6217/0/4/04-NEW-BALANCE-FFSTYNEWA-NEWU9060HSA-Grey.jpg",
+        "https://www.footlocker.id/media/catalog/product/cache/1361a5fa2136490ab0bb297f837f6217/0/5/05-NEW-BALANCE-FFSTYNEWA-NEWU9060HSA-Grey.jpg",
+        "https://www.footlocker.id/media/catalog/product/cache/1361a5fa2136490ab0bb297f837f6217/0/6/06-NEW-BALANCE-FFSTYNEWA-NEWU9060HSA-Grey.jpg"
+      ],
+      "createdAt": "2023-09-01T13:02:04.353Z",
+      "updatedAt": "2024-02-28T01:51:56.243Z"
+    },
+    {
+      "name": "CONVERSE CHUCK 70 MEN'S SNEAKERS - PARCHMENT",
+      "slug": "converse-chuck-70-men-s-sneakers-parchment-10",
+      "description": "Converse Chuck 70 Men's Sneakers Shoes - Parchment. AWAL MULA CHUCK 70Pada tahun 1970, Chuck telah berevolusi mencapai puncak dari fungsi dan manfaat untuk olahraga, dan dianggap sebagai sneaker basket terbaik. Chuck 70 dibuat dari desain asli 1970an, dengan bahan premium dan perhatian luar biasa pada detail. Sepatu yang mengakar kuat pada tradisi sehingga punya sejarahnya sendiri. Itulah Chuck 70. Ini bukan cuma sepatu. Inilah sang sepatu.",
+      "excerpt": "The timeless silhouette you know and love",
+      "price": 999000,
+      "tags": ["converse", "sneakers"],
+      "brand": "Converse",
+      "thumbnail": "https://www.footlocker.id/media/catalog/product/cache/e81e4f913a1cad058ef66fea8e95c839/0/1/01-CONVERSE-FFSSBCONA-CON162062C-OffWhite.jpg",
+      "images": [
+        "https://www.footlocker.id/media/catalog/product/cache/1361a5fa2136490ab0bb297f837f6217/0/2/02-CONVERSE-FFSSBCONA-CON162062C-OffWhite.jpg",
+        "https://www.footlocker.id/media/catalog/product/cache/1361a5fa2136490ab0bb297f837f6217/0/3/03-CONVERSE-FFSSBCONA-CON162062C-OffWhite.jpg",
+        "https://www.footlocker.id/media/catalog/product/cache/1361a5fa2136490ab0bb297f837f6217/0/4/04-CONVERSE-FFSSBCONA-CON162062C-OffWhite.jpg",
+        "https://www.footlocker.id/media/catalog/product/cache/1361a5fa2136490ab0bb297f837f6217/0/5/05-CONVERSE-FFSSBCONA-CON162062C-OffWhite.jpg"
+      ],
+      "createdAt": "2023-03-14T22:11:36.022Z",
+      "updatedAt": "2023-04-15T12:00:48.282Z"
+    },
+    {
+      "name": "CONVERSE CHUCK 70 MEN'S SNEAKERS - PARCHMENT",
+      "slug": "converse-chuck-70-men-s-sneakers-parchment-22",
+      "description": "Converse Chuck 70 Men's Sneakers Shoes - Parchment. AWAL MULA CHUCK 70Pada tahun 1970, Chuck telah berevolusi mencapai puncak dari fungsi dan manfaat untuk olahraga, dan dianggap sebagai sneaker basket terbaik. Chuck 70 dibuat dari desain asli 1970an, dengan bahan premium dan perhatian luar biasa pada detail. Sepatu yang mengakar kuat pada tradisi sehingga punya sejarahnya sendiri. Itulah Chuck 70. Ini bukan cuma sepatu. Inilah sang sepatu.",
+      "excerpt": "The timeless silhouette you know and love",
+      "price": 1099000,
+      "tags": ["converse", "sneakers"],
+      "brand": "Converse",
+      "thumbnail": "https://www.footlocker.id/media/catalog/product/cache/e81e4f913a1cad058ef66fea8e95c839/0/1/01-CONVERSE-FFSSBCONA-CON162053C-Off-White.jpg",
+      "images": [
+        "https://www.footlocker.id/media/catalog/product/cache/1361a5fa2136490ab0bb297f837f6217/0/2/02-CONVERSE-FFSSBCONA-CON162053C-Off-White.jpg",
+        "https://www.footlocker.id/media/catalog/product/cache/1361a5fa2136490ab0bb297f837f6217/0/3/03-CONVERSE-FFSSBCONA-CON162053C-Off-White.jpg",
+        "https://www.footlocker.id/media/catalog/product/cache/1361a5fa2136490ab0bb297f837f6217/0/4/04-CONVERSE-FFSSBCONA-CON162053C-Off-White.jpg",
+        "https://www.footlocker.id/media/catalog/product/cache/1361a5fa2136490ab0bb297f837f6217/0/5/05-CONVERSE-FFSSBCONA-CON162053C-Off-White.jpg"
+      ],
+      "createdAt": "2024-03-06T23:06:24.089Z",
+      "updatedAt": "2023-08-19T10:54:26.783Z"
+    },
+    {
+      "name": "CONVERSE CHUCK 70 HI UNISEX SNEAKERS - BLACK",
+      "slug": "converse-chuck-70-hi-unisex-sneakers-black-14",
+      "description": "Converse CHUCK 70 HI Unisex Sneakers Shoes - Black. Temukan gaya yang sempurna untuk Anda",
+      "excerpt": "Siluet abadi yang Anda kenal dan cintai",
+      "price": 1099000,
+      "tags": ["converse", "sneakers"],
+      "brand": "Converse",
+      "thumbnail": "https://www.footlocker.id/media/catalog/product/cache/e81e4f913a1cad058ef66fea8e95c839/0/1/01-CONVERSE-FFSSBCONA-CON162050C-Black.jpg",
+      "images": [
+        "https://www.footlocker.id/media/catalog/product/cache/1361a5fa2136490ab0bb297f837f6217/0/2/02-CONVERSE-FFSSBCONA-CON162050C-Black.jpg",
+        "https://www.footlocker.id/media/catalog/product/cache/1361a5fa2136490ab0bb297f837f6217/0/3/03-CONVERSE-FFSSBCONA-CON162050C-Black.jpg",
+        "https://www.footlocker.id/media/catalog/product/cache/1361a5fa2136490ab0bb297f837f6217/0/4/04-CONVERSE-FFSSBCONA-CON162050C-Black.jpg",
+        "https://www.footlocker.id/media/catalog/product/cache/1361a5fa2136490ab0bb297f837f6217/0/5/05-CONVERSE-FFSSBCONA-CON162050C-Black.jpg"
+      ],
+      "createdAt": "2024-10-28T17:53:45.585Z",
+      "updatedAt": "2023-09-26T07:41:24.606Z"
+    },
+    {
+      "name": "CONVERSE CHUCK 70 OX UNISEX SNEAKERS - BLACK",
+      "slug": "converse-chuck-70-ox-unisex-sneakers-black-15",
+      "description": "Converse Chuck 70 OX Unisex Sneakers Shoes - Black. FALL CHUCK. Pada 1970, desain Chuck telah berevolusi ke peningkatan fungsi dan utilitas untuk olahraga dan dianggap sebagai sneaker basket terbaik. Chuck 70 dibangun dari desain aslinya, dengan perhatian luar biasa terhadap detail. Bahan kanvas premium, detail patch Chuck sintetis, taping karet arsip, dan bantalan ekstra. Itu Chuck 70. Terlalu bagus.",
+      "price": 999000,
+      "tags": ["converse", "sneakers"],
+      "brand": "Converse",
+      "thumbnail": "https://www.footlocker.id/media/catalog/product/cache/e81e4f913a1cad058ef66fea8e95c839/0/1/01-CONVERSE-FFSSBCONA-CON162058C-Black.jpg",
+      "images": [
+        "https://www.footlocker.id/media/catalog/product/cache/1361a5fa2136490ab0bb297f837f6217/0/2/02-CONVERSE-FFSSBCONA-CON162058C-Black.jpg",
+        "https://www.footlocker.id/media/catalog/product/cache/1361a5fa2136490ab0bb297f837f6217/0/3/03-CONVERSE-FFSSBCONA-CON162058C-Black.jpg",
+        "https://www.footlocker.id/media/catalog/product/cache/1361a5fa2136490ab0bb297f837f6217/0/4/04-CONVERSE-FFSSBCONA-CON162058C-Black.jpg",
+        "https://www.footlocker.id/media/catalog/product/cache/1361a5fa2136490ab0bb297f837f6217/0/5/05-CONVERSE-FFSSBCONA-CON162058C-Black.jpg"
+      ],
+      "createdAt": "2023-10-07T12:24:06.606Z",
+      "updatedAt": "2023-02-13T22:27:42.635Z"
+    },
+    {
+      "name": "CONVERSE RUN STAR HIKE LUGGED UNISEX SNEAKERS - BLACK/WHITE/GUM",
+      "slug": "converse-run-star-hike-lugged-unisex-sneakers-black-white-gum-37",
+      "description": "Converse RUN STAR HIKE LUGGED Unisex Sneakers Shoes - BLACK/WHITE/GUM. TRAILBLAZER. The laidback design of the iconic Chuck Taylor All Star High Top shoe gets a hiking-inspired twist in the Run Star Hike. Iconic lace-up canvas comes together with the classic star ankle patch, while a foxing stripe draws attention to the lugged platform sole. Get out.",
+      "excerpt": "Express your style and rock the look of the streets with Converse Footwear.",
+      "price": 1199000,
+      "tags": ["converse", "sneakers"],
+      "brand": "Converse",
+      "thumbnail": "https://www.footlocker.id/media/catalog/product/cache/e81e4f913a1cad058ef66fea8e95c839/0/1/01-CONVERSE-FFSSBCONA-CON166800C-White.jpg",
+      "images": [
+        "https://www.footlocker.id/media/catalog/product/cache/1361a5fa2136490ab0bb297f837f6217/0/2/02-CONVERSE-FFSSBCONA-CON166800C-White.jpg",
+        "https://www.footlocker.id/media/catalog/product/cache/1361a5fa2136490ab0bb297f837f6217/0/3/03-CONVERSE-FFSSBCONA-CON166800C-White.jpg",
+        "https://www.footlocker.id/media/catalog/product/cache/1361a5fa2136490ab0bb297f837f6217/0/4/04-CONVERSE-FFSSBCONA-CON166800C-White.jpg",
+        "https://www.footlocker.id/media/catalog/product/cache/1361a5fa2136490ab0bb297f837f6217/0/5/05-CONVERSE-FFSSBCONA-CON166800C-White.jpg"
+      ],
+      "createdAt": "2023-04-19T22:44:15.765Z",
+      "updatedAt": "2022-12-28T16:30:35.290Z"
+    },
+    {
+      "name": "VANS OLD SKOOL UNISEX SNEAKERS SHOES - BLACK",
+      "slug": "vans-old-skool-unisex-sneakers-shoes-black-4",
+      "description": "Vinitor blanditiis tergum theatrum blandior votum beatus utilis molestiae eaque. Tactus suffragium crinis beatae auctor tutamen appono virga. Tego volubilis concido summisse tabesco velociter.\nArticulus conturbo voluptates deprecator toties. Repellendus delectatio ea vinitor tamen cohibeo arbor adduco aequitas cibo. Vindico comitatus cognatus clam modi civitas subiungo ambulo voco alioqui.\nThermae adduco ratione distinctio vir cupio iure claro conculco nesciunt. Traho cohibeo tumultus animi conservo illo coepi. Cresco toties civitas aegrus arcesso arcus conspergo.",
+      "excerpt": "OLD SKOOL",
+      "price": 1099000,
+      "tags": ["vans", "sneakers"],
+      "brand": "Vans",
+      "thumbnail": "https://www.footlocker.id/media/catalog/product/cache/e81e4f913a1cad058ef66fea8e95c839/V/A/VAS000D3HY28-2.jpg",
+      "images": [
+        "https://www.footlocker.id/media/catalog/product/cache/1361a5fa2136490ab0bb297f837f6217/V/A/VAS000D3HY28-3.jpg",
+        "https://www.footlocker.id/media/catalog/product/cache/1361a5fa2136490ab0bb297f837f6217/V/A/VAS000D3HY28-4.jpg",
+        "https://www.footlocker.id/media/catalog/product/cache/1361a5fa2136490ab0bb297f837f6217/V/A/VAS000D3HY28-3.jpg",
+        "https://www.footlocker.id/media/catalog/product/cache/1361a5fa2136490ab0bb297f837f6217/V/A/VAS000D3HY28-5.jpg"
+      ],
+      "createdAt": "2024-10-02T19:17:53.883Z",
+      "updatedAt": "2023-11-18T10:18:24.971Z"
+    },
+    {
+      "name": "VANS SK8 HI UNISEX SNEAKERS SHOES - BLACK",
+      "slug": "vans-sk8-hi-unisex-sneakers-shoes-black-9",
+      "description": "Triumphus thesaurus considero victoria solum admiratio catena aegrotatio denego denuncio. Apud vel auctor adipisci. Considero tardus balbus corrigo.\nArchitecto convoco cauda cupressus patrocinor modi speciosus vix. Cattus auctus verto tot valeo terminatio vere. Advoco odio attero iusto comparo.",
+      "excerpt": "SK8-HI",
+      "price": 1199000,
+      "tags": ["vans", "sneakers"],
+      "brand": "Vans",
+      "thumbnail": "https://www.footlocker.id/media/catalog/product/cache/e81e4f913a1cad058ef66fea8e95c839/V/A/VAS000D5IB8C-2.jpg",
+      "images": [
+        "https://www.footlocker.id/media/catalog/product/cache/1361a5fa2136490ab0bb297f837f6217/V/A/VAS000D5IB8C-3.jpg",
+        "https://www.footlocker.id/media/catalog/product/cache/1361a5fa2136490ab0bb297f837f6217/V/A/VAS000D5IB8C-4.jpg",
+        "https://www.footlocker.id/media/catalog/product/cache/1361a5fa2136490ab0bb297f837f6217/V/A/VAS000D5IB8C-3.jpg",
+        "https://www.footlocker.id/media/catalog/product/cache/1361a5fa2136490ab0bb297f837f6217/V/A/VAS000D5IB8C-5.jpg"
+      ],
+      "createdAt": "2024-07-21T07:02:11.939Z",
+      "updatedAt": "2024-10-29T22:56:29.469Z"
+    },
+    {
+      "name": "VANS ERA UNISEX SNEAKERS SHOES- NAVY",
+      "slug": "vans-era-unisex-sneakers-shoes-navy-5",
+      "description": "U ERA. Mengenai Ukuran: Selisih 1-2 cm mungkin terjadi dikarenakan proses pengembangan dan produksi. Mengenai Warna: Warna sesungguhnya mungkin dapat berbeda. Hal ini dikarenakan setiap layar memiliki kemampuan yang berbeda-beda untuk menampilkan warna, kami tidak dapat menjamin bahwa warna yang Anda lihat adalah warna akurat dari produk tersebut.",
+      "price": 999000,
+      "tags": ["vans", "sneakers"],
+      "brand": "Vans",
+      "thumbnail": "https://www.footlocker.id/media/catalog/product/cache/e81e4f913a1cad058ef66fea8e95c839/0/1/01-VANS-FFSSBVAS5-VAS000EWZNVY-Navy.jpg",
+      "images": [
+        "https://www.footlocker.id/media/catalog/product/cache/1361a5fa2136490ab0bb297f837f6217/0/2/02-VANS-FFSSBVAS5-VAS000EWZNVY-Navy.jpg",
+        "https://www.footlocker.id/media/catalog/product/cache/1361a5fa2136490ab0bb297f837f6217/0/3/03-VANS-FFSSBVAS5-VAS000EWZNVY-Navy.jpg",
+        "https://www.footlocker.id/media/catalog/product/cache/1361a5fa2136490ab0bb297f837f6217/0/4/04-VANS-FFSSBVAS5-VAS000EWZNVY-Navy.jpg",
+        "https://www.footlocker.id/media/catalog/product/cache/1361a5fa2136490ab0bb297f837f6217/0/5/05-VANS-FFSSBVAS5-VAS000EWZNVY-Navy.jpg"
+      ],
+      "createdAt": "2023-03-27T21:38:28.200Z",
+      "updatedAt": "2023-03-16T19:54:50.653Z"
+    },
+    {
+      "name": "VANS SK8 HI UNISEX SNEAKERS SHOES - NAVY",
+      "slug": "vans-sk8-hi-unisex-sneakers-shoes-navy-10",
+      "description": "Vulnus amoveo verecundia. Defessus sponte taedium eligendi totidem cursus. Cogo ait vir comptus uter blanditiis toties.\nAmplus cenaculum coerceo. Demens amissio crur. Vigor maxime cena versus amiculum celer varietas.\nSuppellex aveho tepidus utilis infit nihil. Id vere amiculum cultura benevolentia absum talio vesper. Bellum comes depereo apto pecco itaque crinis.",
+      "excerpt": "SK8-HI",
+      "price": 1199000,
+      "tags": ["vans", "sneakers"],
+      "brand": "Vans",
+      "thumbnail": "https://www.footlocker.id/media/catalog/product/cache/e81e4f913a1cad058ef66fea8e95c839/0/1/01-VANS-FFSSBVAS5-VAS000D5INVY-NavyRev25072023.jpg",
+      "images": [
+        "https://www.footlocker.id/media/catalog/product/cache/1361a5fa2136490ab0bb297f837f6217/0/2/02-VANS-FFSSBVAS5-VAS000D5INVY-NavyRev25072023.jpg",
+        "https://www.footlocker.id/media/catalog/product/cache/1361a5fa2136490ab0bb297f837f6217/0/3/03-VANS-FFSSBVAS5-VAS000D5INVY-NavyRev25072023.jpg",
+        "https://www.footlocker.id/media/catalog/product/cache/1361a5fa2136490ab0bb297f837f6217/0/4/04-VANS-FFSSBVAS5-VAS000D5INVY-NavyRev25072023.jpg",
+        "https://www.footlocker.id/media/catalog/product/cache/1361a5fa2136490ab0bb297f837f6217/0/5/05-VANS-FFSSBVAS5-VAS000D5INVY-NavyRev25072023.jpg"
+      ],
+      "createdAt": "2023-10-27T01:52:04.401Z",
+      "updatedAt": "2024-07-30T08:14:14.695Z"
+    },
+    {
+      "name": "VANS AUNTHENTIC UNISEX SNEAKERS SHOES - NAVY",
+      "slug": "vans-aunthentic-unisex-sneakers-shoes-navy-10",
+      "description": "Confero appono aurum amor vinum tredecim depulso adfectus. Ocer velit barba vobis maiores illum. Asperiores suscipio verecundia.\nSaepe patruus cohaero uredo circumvenio suffoco delego aveho. Tabernus vespillo depono qui derelinquo depereo paulatim. Pariatur bos vespillo ambulo quis acsi truculenter arbor comptus.\nTer absque voluptatum. Auctus nobis coadunatio virga. Tempore illo cohors clamo degusto cunae virga infit terga.",
+      "excerpt": "AUTHENTIC VANS NAVY SNEAKERS",
+      "price": 999000,
+      "tags": ["vans", "sneakers"],
+      "brand": "Vans",
+      "thumbnail": "https://www.footlocker.id/media/catalog/product/cache/e81e4f913a1cad058ef66fea8e95c839/0/1/01-VANS-FFSSBVAS5-VAS000EE3NVY-Navy.jpg",
+      "images": [
+        "https://www.footlocker.id/media/catalog/product/cache/1361a5fa2136490ab0bb297f837f6217/0/2/02-VANS-FFSSBVAS5-VAS000EE3NVY-Navy.jpg",
+        "https://www.footlocker.id/media/catalog/product/cache/1361a5fa2136490ab0bb297f837f6217/0/3/03-VANS-FFSSBVAS5-VAS000EE3NVY-Navy.jpg",
+        "https://www.footlocker.id/media/catalog/product/cache/1361a5fa2136490ab0bb297f837f6217/0/4/04-VANS-FFSSBVAS5-VAS000EE3NVY-Navy.jpg",
+        "https://www.footlocker.id/media/catalog/product/cache/1361a5fa2136490ab0bb297f837f6217/0/5/05-VANS-FFSSBVAS5-VAS000EE3NVY-Navy.jpg"
+      ],
+      "createdAt": "2024-03-16T10:52:25.860Z",
+      "updatedAt": "2023-09-27T02:41:42.426Z"
+    },
+    {
+      "name": "ADIDAS ULTRA 4D UNISEX SNEAKERS - OFF WHITE",
+      "slug": "adidas-ultra-4d-unisex-sneakers-off-white-6",
+      "description": "Sepatu lari Adidas ini dibuat dengan midsole adidas 4D yang dicetak 3D untuk kombinasi penyerapan benturan dan stabilitas yang tak tertandingi pada permukaan yang keras atau tidak rata. Bagian upper Adidas PRIMEKNIT membungkus kaki dengan kesesuaian yang mendukung yang menyempurnakan setiap gerakan. Dibuat dengan serangkaian bahan daur ulang, bagian atas ini memiliki setidaknya 50% kandungan bahan daur ulang. Produk ini merupakan salah satu solusi kami untuk membantu mengurangi sampah plastik.",
+      "price": 4000000,
+      "tags": ["adidas", "sneakers"],
+      "brand": "Adidas",
+      "thumbnail": "https://www.footlocker.id/media/catalog/product/cache/e81e4f913a1cad058ef66fea8e95c839/0/1/01-ADIDAS-FFSSBADI5-ADIIF0301-White.jpg",
+      "images": [
+        "https://www.footlocker.id/media/catalog/product/cache/1361a5fa2136490ab0bb297f837f6217/0/2/02-ADIDAS-FFSSBADI5-ADIIF0301-White.jpg",
+        "https://www.footlocker.id/media/catalog/product/cache/1361a5fa2136490ab0bb297f837f6217/0/3/03-ADIDAS-FFSSBADI5-ADIIF0301-White.jpg",
+        "https://www.footlocker.id/media/catalog/product/cache/1361a5fa2136490ab0bb297f837f6217/0/4/04-ADIDAS-FFSSBADI5-ADIIF0301-White.jpg",
+        "https://www.footlocker.id/media/catalog/product/cache/1361a5fa2136490ab0bb297f837f6217/0/5/05-ADIDAS-FFSSBADI5-ADIIF0301-White.jpg"
+      ],
+      "createdAt": "2023-07-14T05:26:55.250Z",
+      "updatedAt": "2024-01-24T19:52:36.873Z"
+    },
+    {
+      "name": "ADIDAS SUPERSTAR XLG UNISEX SNEAKERS SHOES - FTWR WHITE",
+      "slug": "adidas-superstar-xlg-unisex-sneakers-shoes-ftwr-white-30",
+      "description": "Sepatu Superstar adidas ini mendapatkan desain baru dengan membuat ulang versi originalnya lewat lensa ‘80an, menjadikannya barang wajib musim ini. Tooling yang lebih tebal memberikan kesan in-your-face untuk tampilan rock-soli, dan midsole EVA drop-in menjadikannya ekstra nyaman. Upper karet menjadikan backdrop rapi untuk 3-Garis bergerigi, sementara shell toe karet klasik dan outsole berpola herringbone mengacu pada asalnya.",
+      "excerpt": "Reworked classic trainers with contemporary stylistic details.",
+      "price": 2000000,
+      "tags": ["adidas", "sneakers"],
+      "thumbnail": "https://www.footlocker.id/media/catalog/product/cache/e81e4f913a1cad058ef66fea8e95c839/0/1/01-ADIDAS-FFSSBADI5-ADIIF9995-White.jpg",
+      "images": [
+        "https://www.footlocker.id/media/catalog/product/cache/1361a5fa2136490ab0bb297f837f6217/0/2/02-ADIDAS-FFSSBADI5-ADIIF9995-White.jpg",
+        "https://www.footlocker.id/media/catalog/product/cache/1361a5fa2136490ab0bb297f837f6217/0/3/03-ADIDAS-FFSSBADI5-ADIIF9995-White.jpg",
+        "https://www.footlocker.id/media/catalog/product/cache/1361a5fa2136490ab0bb297f837f6217/0/4/04-ADIDAS-FFSSBADI5-ADIIF9995-White.jpg",
+        "https://www.footlocker.id/media/catalog/product/cache/1361a5fa2136490ab0bb297f837f6217/0/5/05-ADIDAS-FFSSBADI5-ADIIF9995-White.jpg"
+      ],
+      "createdAt": "2023-09-28T09:46:33.668Z",
+      "updatedAt": "2023-01-23T11:38:43.982Z"
+    },
+    {
+      "name": "ADIDAS X_PLRBOOST MEN'S SNEAKERS - CORE BLACK",
+      "slug": "adidas-x-plrboost-men-s-sneakers-core-black-54",
+      "description": "Menghadirkan keserbagunaan, kenyamanan, dan gaya untuk petualangan di perkotaan. Sepatu adidas yang terinspirasi dari olahraga lari pria ini menawarkan tampilan modern dengan tampilan yang ikonik. Konstruksi breathable membuat kaki Anda tetap sejuk, dan midsole BOOST menambahkan bantalan yang responsif untuk berlari atau berjalan santai. Dibuat dengan serangkaian bahan daur ulang, bagian upper sepatu ini memiliki setidaknya 50% kandungan daur ulang. Produk ini merupakan salah satu solusi kami untuk membantu mengurangi sampah plastik.",
+      "price": 2500000,
+      "tags": ["adidas", "sneakers"],
+      "brand": "Adidas",
+      "thumbnail": "https://www.footlocker.id/media/catalog/product/cache/e81e4f913a1cad058ef66fea8e95c839/0/1/01-ADIDAS-FFSSBADI5-ADIID9432-Black.jpg",
+      "images": [
+        "https://www.footlocker.id/media/catalog/product/cache/1361a5fa2136490ab0bb297f837f6217/0/2/02-ADIDAS-FFSSBADI5-ADIID9432-Black.jpg",
+        "https://www.footlocker.id/media/catalog/product/cache/1361a5fa2136490ab0bb297f837f6217/0/3/03-ADIDAS-FFSSBADI5-ADIID9432-Black.jpg",
+        "https://www.footlocker.id/media/catalog/product/cache/1361a5fa2136490ab0bb297f837f6217/0/4/04-ADIDAS-FFSSBADI5-ADIID9432-Black.jpg",
+        "https://www.footlocker.id/media/catalog/product/cache/1361a5fa2136490ab0bb297f837f6217/0/5/05-ADIDAS-FFSSBADI5-ADIID9432-Black.jpg"
+      ],
+      "createdAt": "2024-10-11T23:35:20.339Z",
+      "updatedAt": "2022-12-30T04:42:59.900Z"
+    },
+    {
+      "name": "ADIDAS X_PLRBOOST MEN'S SNEAKERS - OLIVE STRATA",
+      "slug": "adidas-x-plrboost-men-s-sneakers-olive-strata-20",
+      "description": "Dibuat untuk petualangan perkotaan. Sepatu Adidas yang terinspirasi dari olahraga lari ini menampilkan tampilan serat karbon untuk sentuhan modern pada bagian sangkar dan tumit yang ikonik. Bagian upper CORDURA® menawarkan kenyamanan yang tahan lama, dan midsole BOOST memberikan pengembalian energi terbaik. Detail reflektif menambahkan sentuhan akhir yang segar.",
+      "price": 2500000,
+      "tags": ["adidas", "sneakers"],
+      "brand": "Adidas",
+      "thumbnail": "https://www.footlocker.id/media/catalog/product/cache/e81e4f913a1cad058ef66fea8e95c839/0/1/01-ADIDAS-F34RUADI5-ADIID9583-Olive.jpg",
+      "images": [
+        "https://www.footlocker.id/media/catalog/product/cache/1361a5fa2136490ab0bb297f837f6217/0/2/02-ADIDAS-F34RUADI5-ADIID9583-Olive.jpg",
+        "https://www.footlocker.id/media/catalog/product/cache/1361a5fa2136490ab0bb297f837f6217/0/3/03-ADIDAS-F34RUADI5-ADIID9583-Olive.jpg",
+        "https://www.footlocker.id/media/catalog/product/cache/1361a5fa2136490ab0bb297f837f6217/0/4/04-ADIDAS-F34RUADI5-ADIID9583-Olive.jpg",
+        "https://www.footlocker.id/media/catalog/product/cache/1361a5fa2136490ab0bb297f837f6217/0/5/05-ADIDAS-F34RUADI5-ADIID9583-Olive.jpg"
+      ],
+      "createdAt": "2024-06-21T13:57:40.806Z",
+      "updatedAt": "2023-11-02T12:36:00.666Z"
+    },
+    {
+      "name": "ADIDAS FORUM X THE GRINCH UNISEX SNEAKERS - CORE WHITE",
+      "slug": "adidas-forum-x-the-grinch-unisex-sneakers-core-white-17",
+      "description": "Siluet klasik berpadu dengan semangat Grinch dalam sepatu kets adidas Forum unisex ini. Siap menjadi pusat perhatian, sepatu reguler fit ini menarik perhatian dengan warna hijau dan merahnya yang membangkitkan keceriaan Natal. Logo Forum yang ikonik hadir di sini, melengkapi penampilan liburan Anda dengan sentuhan adidas Originals.",
+      "price": 2200000,
+      "tags": ["adidas", "sneakers"],
+      "brand": "Adidas",
+      "thumbnail": "https://www.footlocker.id/media/catalog/product/cache/e81e4f913a1cad058ef66fea8e95c839/0/1/01-ADIDAS-F34KBADI5-ADIID3512-White.jpg",
+      "images": [
+        "https://www.footlocker.id/media/catalog/product/cache/1361a5fa2136490ab0bb297f837f6217/0/2/02-ADIDAS-F34KBADI5-ADIID3512-White.jpg",
+        "https://www.footlocker.id/media/catalog/product/cache/1361a5fa2136490ab0bb297f837f6217/0/3/03-ADIDAS-F34KBADI5-ADIID3512-White.jpg",
+        "https://www.footlocker.id/media/catalog/product/cache/1361a5fa2136490ab0bb297f837f6217/0/4/04-ADIDAS-F34KBADI5-ADIID3512-White.jpg",
+        "https://www.footlocker.id/media/catalog/product/cache/1361a5fa2136490ab0bb297f837f6217/0/5/05-ADIDAS-F34KBADI5-ADIID3512-White.jpg"
+      ],
+      "createdAt": "2024-02-12T21:40:03.927Z",
+      "updatedAt": "2023-11-21T23:31:01.738Z"
+    },
+    {
+      "name": "spes spiculum commodi",
+      "slug": "depromo-sonitus",
+      "description": "Villa sub texo adsidue aedificium repellat decens. Absconditus volva victus. Tergo verumtamen trucido deduco defungo careo animus depereo abeo unus.\nTerra textus saepe caries natus acsi. Tenax nihil velum assumenda ullus omnis modi iusto vehemens collum. Tracto abundans alter.\nQuaerat vulnus commodi clementia supra denuo caveo. Appono cornu atqui aperiam ait vociferor vere. Fugiat coerceo arbor valeo abstergo tyrannus truculenter.",
+      "excerpt": "Vindico astrum deinde aeger aliquid.",
+      "price": 6615144,
+      "tags": ["commodo", "caelestis", "termes"],
+      "thumbnail": "https://loremflickr.com/400/400/technics",
+      "images": ["https://loremflickr.com/400/400/technics", "https://loremflickr.com/400/400/abstract", "https://loremflickr.com/400/400/business", "https://loremflickr.com/400/400/animals", "https://loremflickr.com/400/400/abstract"],
+      "createdAt": "2024-09-07T20:30:56.424Z",
+      "updatedAt": "2023-02-14T00:10:08.742Z"
+    },
+    {
+      "name": "vomito crapula",
+      "slug": "celo-utpote",
+      "description": "Decipio attonbitus defero talis. Cunabula basium depopulo creo provident. Natus pectus ater concedo.\nSequi creator vorago vestrum tabernus. Distinctio deleniti peior volva veritas. Vorax desparatus tantillus.",
+      "excerpt": "Surgo aufero acies crustulum talio admiratio.",
+      "price": 1998588,
+      "tags": ["condico", "veritas", "absconditus"],
+      "thumbnail": "https://loremflickr.com/400/400/animals",
+      "images": ["https://loremflickr.com/400/400/fashion", "https://loremflickr.com/400/400/technics", "https://loremflickr.com/400/400/food", "https://loremflickr.com/400/400/cats", "https://loremflickr.com/400/400/people"],
+      "createdAt": "2023-06-07T22:40:53.629Z",
+      "updatedAt": "2023-02-18T18:54:30.034Z"
+    },
+    {
+      "name": "delibero adiuvo",
+      "slug": "vobis-perspiciatis-arto",
+      "description": "Ars vergo utique torqueo appono thesaurus stipes crudelis. Xiphias maxime desino cui ustilo basium tergo brevis vix theatrum. Veritatis tepesco contabesco tenax creta antepono saepe apto.\nAegre ratione odit vigilo canis aureus admoneo audax. Adhaero carus crux quis alienus beatus cunctatio. Approbo territo tremo cupio.",
+      "excerpt": "Tunc comminor fuga stultus careo ulciscor.",
+      "price": 4505365,
+      "tags": ["succedo", "cunctatio", "conforto"],
+      "thumbnail": "https://loremflickr.com/400/400/people",
+      "images": ["https://loremflickr.com/400/400/sports", "https://loremflickr.com/400/400/people", "https://loremflickr.com/400/400/fashion", "https://loremflickr.com/400/400/abstract", "https://loremflickr.com/400/400/transport"],
+      "createdAt": "2022-12-31T17:28:39.565Z",
+      "updatedAt": "2024-04-14T10:18:23.396Z"
+    },
+    {
+      "name": "contra talio caste",
+      "slug": "claro-consequatur-cito",
+      "description": "Surculus cornu thesis. Callide demitto turbo vaco vita odit. Cresco totidem aperte nostrum conicio paens cur.\nVentus cedo auctor quasi cilicium conventus. Averto adamo ipsam sustineo agnitio. Compono officia virtus defetiscor.",
+      "excerpt": "Corroboro cerno ultio speculum.",
+      "price": 7379473,
+      "tags": ["cunabula", "annus", "comminor"],
+      "thumbnail": "https://loremflickr.com/400/400/people",
+      "images": ["https://loremflickr.com/400/400/transport", "https://loremflickr.com/400/400/fashion", "https://loremflickr.com/400/400/transport", "https://loremflickr.com/400/400/food", "https://loremflickr.com/400/400/nature"],
+      "createdAt": "2023-10-17T08:31:06.845Z",
+      "updatedAt": "2024-09-16T18:14:40.462Z"
+    },
+    {
+      "name": "abscido tripudio",
+      "slug": "dedico-usitas-vestigium",
+      "description": "Perspiciatis viduo vulnero. Depono curiositas ullus placeat ait. Vere coadunatio arbustum succedo synagoga volo conspergo versus uredo.\nModi pax canonicus. Amita deludo aperiam officia credo officiis sordeo adsum. Earum colligo tot.\nTempore totus caterva venio tametsi creta sopor. Acer averto reiciendis. Apparatus mollitia callide.",
+      "excerpt": "Caecus synagoga dolorum volup alo.",
+      "price": 8434951,
+      "tags": ["bellum", "inventore", "defessus"],
+      "thumbnail": "https://loremflickr.com/400/400/transport",
+      "images": ["https://loremflickr.com/400/400/sports", "https://loremflickr.com/400/400/city", "https://loremflickr.com/400/400/city", "https://loremflickr.com/400/400/animals", "https://loremflickr.com/400/400/nature"],
+      "createdAt": "2024-03-10T04:38:05.311Z",
+      "updatedAt": "2023-08-08T15:26:14.545Z"
+    },
+    {
+      "name": "tenetur vindico",
+      "slug": "campana-demens",
+      "description": "Deinde agnosco cado. Absens demens stips temptatio calculus sol. Conturbo error ex vereor adeptio aliquid ter.\nAcer synagoga pecco rem amissio decet. Sumptus adeo claro cunctatio vindico abutor titulus eum textilis ascisco. Nobis sulum subseco pecco sequi.",
+      "excerpt": "Comedo concido vomito demens.",
+      "price": 8405708,
+      "tags": ["astrum", "celer", "arguo"],
+      "thumbnail": "https://loremflickr.com/400/400/cats",
+      "images": ["https://loremflickr.com/400/400/sports", "https://loremflickr.com/400/400/people", "https://loremflickr.com/400/400/abstract", "https://loremflickr.com/400/400/nature", "https://loremflickr.com/400/400/cats"],
+      "createdAt": "2024-11-06T20:04:31.839Z",
+      "updatedAt": "2024-07-18T21:15:13.359Z"
+    },
+    {
+      "name": "sonitus quibusdam quo",
+      "slug": "derelinquo-iste-trucido",
+      "description": "Vae odio deleo tres quaerat tutis contego ustilo. Utpote ceno appello vigor aqua. Curriculum aestivus audax aliquam ut copiose tametsi sunt spoliatio vaco.\nDedico verbera amplitudo. Advoco decretum comes annus cariosus deputo. Tabesco suadeo dapifer venustas.\nColo ceno spectaculum texo sint. Vomica thymum cinis vulnus. Spiculum volaticus surgo tergeo.",
+      "excerpt": "Trans coma suggero cruentus.",
+      "price": 5005836,
+      "tags": ["succedo", "templum", "denique"],
+      "thumbnail": "https://loremflickr.com/400/400/technics",
+      "images": ["https://loremflickr.com/400/400/nature", "https://loremflickr.com/400/400/food", "https://loremflickr.com/400/400/fashion", "https://loremflickr.com/400/400/nature", "https://loremflickr.com/400/400/nature"],
+      "createdAt": "2024-03-15T21:47:26.248Z",
+      "updatedAt": "2023-09-29T03:44:32.133Z"
+    },
+    {
+      "name": "debitis temptatio",
+      "slug": "curiositas-advoco",
+      "description": "Tener nam tenuis. Angulus decor vociferor sollicito ab eaque. Ceno esse coepi aeternus.\nAdipisci crustulum textor volubilis nesciunt. Velut voluntarius abundans tonsor decimus sulum. Aperte desino deprecator.\nDeporto vado avaritia architecto dicta verumtamen advoco virgo. Abbas candidus basium ambitus vita testimonium. Quia corrigo asperiores templum acquiro depulso accendo adficio veniam clam.",
+      "excerpt": "Vulticulus cenaculum clam thermae creptio asporto.",
+      "price": 3974248,
+      "tags": ["vulgaris", "totus", "textilis"],
+      "thumbnail": "https://loremflickr.com/400/400/technics",
+      "images": ["https://loremflickr.com/400/400/people", "https://loremflickr.com/400/400/technics", "https://loremflickr.com/400/400/nature", "https://loremflickr.com/400/400/food", "https://loremflickr.com/400/400/business"],
+      "createdAt": "2023-09-10T15:10:36.230Z",
+      "updatedAt": "2024-05-11T08:30:00.889Z"
+    },
+    {
+      "name": "credo vallum",
+      "slug": "beatus-ceno",
+      "description": "Aequitas adduco veniam amet. Succurro perferendis color charisma vix talis. Arguo sit dignissimos contabesco credo.\nVeritas cupio inflammatio autem odio timidus autem. Cras alienus terreo arto. Suscipit vis decumbo vulnus trado tunc ager aufero.",
+      "excerpt": "Tenus tabella vitiosus teneo laborum.",
+      "price": 7391162,
+      "tags": ["temeritas", "dignissimos", "conventus"],
+      "thumbnail": "https://loremflickr.com/400/400/transport",
+      "images": ["https://loremflickr.com/400/400/nightlife", "https://loremflickr.com/400/400/technics", "https://loremflickr.com/400/400/food", "https://loremflickr.com/400/400/nature", "https://loremflickr.com/400/400/business"],
+      "createdAt": "2024-03-09T03:44:45.268Z",
+      "updatedAt": "2024-09-24T00:35:22.457Z"
+    },
+    {
+      "name": "facilis annus vita",
+      "slug": "sustineo-vorax-virtus",
+      "description": "Curto cito callide molestias turbo ter. Conculco cilicium degusto quo ubi. Vobis tepidus atavus vivo sint caritas conitor cernuus.\nDeorsum taceo allatus thesaurus quaerat. Voluptas debilito sperno illum sponte veniam dolorum. Supplanto voco viridis adsuesco quisquam coruscus adficio thymbra sordeo coruscus.\nSed advenio deprimo canonicus a utpote repellat ter urbs. Cui barba toties consectetur cur explicabo virtus celebrer. Cribro pecto neque cena nam solus combibo.",
+      "excerpt": "Atavus utrimque voveo dolores.",
+      "price": 1680789,
+      "tags": ["vitiosus", "accusamus", "adficio"],
+      "thumbnail": "https://loremflickr.com/400/400/transport",
+      "images": ["https://loremflickr.com/400/400/nature", "https://loremflickr.com/400/400/transport", "https://loremflickr.com/400/400/nature", "https://loremflickr.com/400/400/business", "https://loremflickr.com/400/400/nature"],
+      "createdAt": "2024-11-23T20:32:20.078Z",
+      "updatedAt": "2023-05-28T23:16:49.957Z"
+    },
+    {
+      "name": "ex eligendi",
+      "slug": "allatus-basium-ocer",
+      "description": "Apto turpis ultio voluptatibus odit thema bellum atque. Nemo vilicus coruscus. Degenero adversus vix viriliter adfectus sed tredecim dedecor absum voluntarius.\nAdnuo asporto appositus provident. Socius theca carus coma cado cervus numquam. Argentum cui supellex spiculum et.",
+      "excerpt": "Capillus acervus patria creptio una.",
+      "price": 3151452,
+      "tags": ["aedificium", "utilis", "magnam"],
+      "thumbnail": "https://loremflickr.com/400/400/people",
+      "images": ["https://loremflickr.com/400/400/fashion", "https://loremflickr.com/400/400/cats", "https://loremflickr.com/400/400/people", "https://loremflickr.com/400/400/animals", "https://loremflickr.com/400/400/nature"],
+      "createdAt": "2023-04-12T03:01:35.936Z",
+      "updatedAt": "2024-07-18T04:25:44.559Z"
+    },
+    {
+      "name": "bonus animi nam",
+      "slug": "capitulus-dedico",
+      "description": "Decet cubitum atavus. Debilito sui coadunatio officia maiores succedo bestia depraedor. Volubilis theatrum auditor.\nEnim audacia adiuvo bellicus odio barba porro votum voluptates vorago. Totus voluptatum cursus voluptatum. Antepono voluptatem solio.\nAdversus carmen aegre tutamen sto culpo vaco ipsa benevolentia solio. Volutabrum decipio adipiscor deleo vallum atrocitas corrupti demonstro. Adinventitias uter ventito tempora coniecto crur sit volo.",
+      "excerpt": "Iste aspernatur cattus ancilla.",
+      "price": 3748545,
+      "tags": ["solvo", "adsidue", "approbo"],
+      "thumbnail": "https://loremflickr.com/400/400/food",
+      "images": ["https://loremflickr.com/400/400/people", "https://loremflickr.com/400/400/nightlife", "https://loremflickr.com/400/400/business", "https://loremflickr.com/400/400/technics", "https://loremflickr.com/400/400/abstract"],
+      "createdAt": "2024-07-06T15:55:39.229Z",
+      "updatedAt": "2024-02-25T04:25:34.949Z"
+    },
+    {
+      "name": "culpa adulescens",
+      "slug": "cicuta-debilito",
+      "description": "Callide undique colo certus caute. Pecco admitto desolo adduco depromo. Sufficio substantia cerno.\nEaque assentator turbo dolorum amplus porro sophismata suspendo comprehendo turpis. Viriliter aer demo carbo absque comparo cibo. Absens aperiam arcesso.",
+      "excerpt": "Pariatur capitulus vito acquiro.",
+      "price": 7600020,
+      "tags": ["suppellex", "absum", "accusamus"],
+      "thumbnail": "https://loremflickr.com/400/400/abstract",
+      "images": ["https://loremflickr.com/400/400/abstract", "https://loremflickr.com/400/400/fashion", "https://loremflickr.com/400/400/sports", "https://loremflickr.com/400/400/people", "https://loremflickr.com/400/400/animals"],
+      "createdAt": "2023-08-17T12:24:16.307Z",
+      "updatedAt": "2024-05-28T13:17:06.768Z"
+    },
+    {
+      "name": "animi vomica attero",
+      "slug": "vitae-anser",
+      "description": "Consuasor commodo sui vel vociferor aequus. Quod thesis auctor copia inventore cruciamentum tantum cerno consectetur cubicularis. Vehemens cito repudiandae bellicus.\nExercitationem spiritus cruciamentum cognomen demergo facere spoliatio vorago conqueror. Adipiscor universe voluntarius depraedor derelinquo uredo. Beatus at solio eius tondeo vigilo voluptates tenetur.\nAspernatur thesaurus vado traho. Ipsam odio viridis vetus temperantia vere sperno maiores et. Voco claro cursus fugiat vigilo.",
+      "excerpt": "Agnosco cunabula crustulum depopulo.",
+      "price": 5885485,
+      "tags": ["demergo", "vae", "veniam"],
+      "thumbnail": "https://loremflickr.com/400/400/technics",
+      "images": ["https://loremflickr.com/400/400/city", "https://loremflickr.com/400/400/people", "https://loremflickr.com/400/400/animals", "https://loremflickr.com/400/400/city", "https://loremflickr.com/400/400/transport"],
+      "createdAt": "2024-01-09T02:28:39.567Z",
+      "updatedAt": "2023-06-03T17:15:12.894Z"
+    },
+    {
+      "name": "nam testimonium",
+      "slug": "demum-thesaurus-deprecator",
+      "description": "Spiculum adfero stipes tametsi strenuus aetas sunt porro adopto dicta. Carbo callide creber culpo aperiam facere decretum ait. Tonsor venia testimonium sustineo sulum sollers cumque verbum pectus.\nVito cum decumbo atrox accendo. Accommodo commodi temperantia comminor aperio tum tergiversatio terror quasi ars. Decerno ascit villa attollo.\nAestas voluptate votum clementia alienus surgo caute certe defaeco. Administratio audacia infit nam crudelis arbitro collum. Earum caecus coaegresco adiuvo arbor centum temeritas uberrime amiculum.",
+      "excerpt": "Ventosus cursim argumentum deludo cupiditas.",
+      "price": 5367154,
+      "tags": ["spectaculum", "sol", "tabula"],
+      "thumbnail": "https://loremflickr.com/400/400/technics",
+      "images": ["https://loremflickr.com/400/400/abstract", "https://loremflickr.com/400/400/nightlife", "https://loremflickr.com/400/400/people", "https://loremflickr.com/400/400/business", "https://loremflickr.com/400/400/people"],
+      "createdAt": "2023-12-06T04:50:16.256Z",
+      "updatedAt": "2023-01-24T13:57:32.782Z"
+    },
+    {
+      "name": "curtus dolores",
+      "slug": "sono-triumphus",
+      "description": "Chirographum ventito artificiose tonsor eum canis terminatio reiciendis ater nesciunt. Vomer correptius amissio benevolentia caute sollicito. Eligendi valetudo arguo inflammatio sursum vivo cunae enim.\nVae succedo vere acies cultura amplus caput alter delinquo teneo. Accusator vorax una cariosus volva cinis dolor itaque. Viridis thesaurus claro conservo addo antea.",
+      "excerpt": "Ancilla vox adsum aetas.",
+      "price": 9434037,
+      "tags": ["vitiosus", "tumultus", "ventito"],
+      "thumbnail": "https://loremflickr.com/400/400/food",
+      "images": ["https://loremflickr.com/400/400/people", "https://loremflickr.com/400/400/fashion", "https://loremflickr.com/400/400/sports", "https://loremflickr.com/400/400/sports", "https://loremflickr.com/400/400/technics"],
+      "createdAt": "2023-08-29T09:38:42.090Z",
+      "updatedAt": "2023-08-18T21:08:19.418Z"
+    },
+    {
+      "name": "decens tabella ea",
+      "slug": "suadeo-qui-tunc",
+      "description": "Vox dens cras vito acidus. Eius volaticus amplus pax uter cavus. Supplanto curriculum creta.\nCausa caput cultellus color pauper vereor cilicium umquam. Cetera quibusdam deprimo tunc thymum aestivus decimus eos. Corona desino depulso adversus enim altus consuasor error.\nAmita aeger sursum antepono cognatus acquiro. Tribuo clarus coma. Vilicus decens coniuratio omnis caute atqui clementia pauper claustrum.",
+      "excerpt": "Videlicet tempus repellendus cultura compello spoliatio.",
+      "price": 6454574,
+      "tags": ["subnecto", "eveniet", "sed"],
+      "thumbnail": "https://loremflickr.com/400/400/city",
+      "images": ["https://loremflickr.com/400/400/technics", "https://loremflickr.com/400/400/food", "https://loremflickr.com/400/400/people", "https://loremflickr.com/400/400/city", "https://loremflickr.com/400/400/transport"],
+      "createdAt": "2023-09-05T22:25:01.314Z",
+      "updatedAt": "2023-07-06T14:56:05.392Z"
+    },
+    {
+      "name": "claustrum audacia vulgivagus",
+      "slug": "uterque-aqua-conspergo",
+      "description": "Derideo chirographum coniuratio at vobis. Illo ex balbus aveho cotidie valeo animus custodia derideo cibus. Fugiat coaegresco currus.\nPauci cedo valeo. Arguo molestiae communis comminor canonicus. Canonicus aliquid ultra.\nAudeo denique vindico supellex vestigium vinitor taedium reprehenderit adversus decerno. Dicta valeo capitulus conduco talis decimus annus impedit. Adipisci thorax coruscus.",
+      "excerpt": "Cariosus aiunt minus valde.",
+      "price": 5950717,
+      "tags": ["cultellus", "aliqua", "ceno"],
+      "thumbnail": "https://loremflickr.com/400/400/city",
+      "images": ["https://loremflickr.com/400/400/cats", "https://loremflickr.com/400/400/sports", "https://loremflickr.com/400/400/technics", "https://loremflickr.com/400/400/animals", "https://loremflickr.com/400/400/nightlife"],
+      "createdAt": "2024-04-26T22:38:49.782Z",
+      "updatedAt": "2024-09-01T17:48:42.747Z"
+    },
+    {
+      "name": "aperiam magnam vir",
+      "slug": "pax-strenuus",
+      "description": "Pauci casus appono dignissimos patrocinor nam. Tutamen absque utor. Crux ad audax tertius civis.\nVacuus cultura eius nemo cresco. Cui textus id adipisci cognatus autus quas terminatio dolorum. Desolo spiritus talio adeo totidem cubitum quibusdam distinctio.",
+      "excerpt": "Surculus volup antea vulgaris viduo aliquid.",
+      "price": 8530937,
+      "tags": ["talio", "texo", "super"],
+      "thumbnail": "https://loremflickr.com/400/400/nature",
+      "images": ["https://loremflickr.com/400/400/fashion", "https://loremflickr.com/400/400/technics", "https://loremflickr.com/400/400/nightlife", "https://loremflickr.com/400/400/cats", "https://loremflickr.com/400/400/cats"],
+      "createdAt": "2023-11-25T05:47:20.269Z",
+      "updatedAt": "2023-08-05T05:53:31.031Z"
+    },
+    {
+      "name": "arbor adhaero",
+      "slug": "culpa-sufficio",
+      "description": "Damnatio careo assumenda copiose quis virgo deleniti cognatus defleo. Cicuta attero delibero tamquam subseco tamisium cresco templum benigne amicitia. Timor praesentium aufero toties synagoga esse volo centum vitae nihil.\nStillicidium tandem creo caterva. Subiungo summa eum repudiandae terebro abscido coaegresco. Suscipit defetiscor deserunt urbs angelus.\nDefendo beatus coruscus optio. Tonsor sum acer. Avarus cribro solitudo qui iure caste.",
+      "excerpt": "Ea apto conicio adinventitias atrocitas cubo.",
+      "price": 8287706,
+      "tags": ["trado", "uberrime", "utpote"],
+      "thumbnail": "https://loremflickr.com/400/400/fashion",
+      "images": ["https://loremflickr.com/400/400/people", "https://loremflickr.com/400/400/animals", "https://loremflickr.com/400/400/animals", "https://loremflickr.com/400/400/nightlife", "https://loremflickr.com/400/400/people"],
+      "createdAt": "2024-02-01T16:22:07.114Z",
+      "updatedAt": "2023-06-22T21:56:29.111Z"
+    },
+    {
+      "name": "tendo sint",
+      "slug": "absconditus-ulciscor",
+      "description": "Defungo fuga audacia similique valetudo vulnero. Agnosco vallum centum reprehenderit corona theatrum sopor. Thema sursum delinquo conforto tertius conturbo arx suffoco adulescens.\nDepereo apostolus pecto voluptate somnus aggero deduco aspernatur. At cohors temporibus tepesco ipsum voluptatem. Arceo fugit provident.",
+      "excerpt": "Bardus argumentum voluptates trans.",
+      "price": 7359333,
+      "tags": ["summopere", "arceo", "repellendus"],
+      "thumbnail": "https://loremflickr.com/400/400/abstract",
+      "images": ["https://loremflickr.com/400/400/cats", "https://loremflickr.com/400/400/animals", "https://loremflickr.com/400/400/food", "https://loremflickr.com/400/400/nightlife", "https://loremflickr.com/400/400/cats"],
+      "createdAt": "2023-10-15T16:16:35.701Z",
+      "updatedAt": "2024-01-03T14:54:25.952Z"
+    },
+    {
+      "name": "corrupti compono conforto",
+      "slug": "altus-correptius-quae",
+      "description": "Tergeo tantum voluptatem catena dedico infit alias brevis dolorem tenus. Contigo vinitor vociferor delibero ater tollo adaugeo. In teres cognatus utroque voluptates arguo desolo.\nCeno thesaurus credo accommodo crustulum dolorum claustrum inventore sequi cogo. Cernuus eaque carbo. Molestiae cupiditate admoveo caecus coniuratio torrens bene.\nDerideo terra coma vinitor depono tergiversatio. Quis contabesco sperno adinventitias utor adfero cognomen crur. Suggero desidero ventus tribuo cribro subvenio cursim pecto tenetur ceno.",
+      "excerpt": "Valeo sequi creator allatus.",
+      "price": 3577617,
+      "tags": ["vicinus", "speculum", "facere"],
+      "thumbnail": "https://loremflickr.com/400/400/people",
+      "images": ["https://loremflickr.com/400/400/people", "https://loremflickr.com/400/400/nature", "https://loremflickr.com/400/400/animals", "https://loremflickr.com/400/400/sports", "https://loremflickr.com/400/400/technics"],
+      "createdAt": "2022-12-08T23:49:22.751Z",
+      "updatedAt": "2023-02-06T09:07:21.480Z"
+    }
+  ]
+}
